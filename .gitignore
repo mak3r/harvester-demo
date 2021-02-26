@@ -1,2 +1,4 @@
 *.log
 scratch.md
+static/
+kubeconfig*
